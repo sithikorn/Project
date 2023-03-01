@@ -518,7 +518,7 @@
             <AjaxToolkit:ToolkitScriptManager runat="server"></AjaxToolkit:ToolkitScriptManager>
             <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional">
                 <ContentTemplate>
-                    <%-- BEGIN head             --%>
+                    <%-- BEGIN head  --%>
                     <div class="row col-lg-offset-3  ">
                         <div class="row col-lg-4" id="tophead">
                             <div class="row" style="text-align: center">
