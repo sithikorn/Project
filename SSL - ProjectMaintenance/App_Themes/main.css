@@ -1,0 +1,35 @@
+.dropmenudiv
+{
+  height: 300px;
+  max-height: 300px;
+  /*overflow-y: scroll;*/
+}
+
+/* DropdownList function */
+.ctrDropDown{
+    width:145px;
+    font-size:11px;
+}
+.ctrDropDownClick{
+    font-size:11px;
+
+    width:300px;
+
+}
+.plainDropDown{
+    width:145px;
+    font-size:11px;
+}
+
+.ddl
+{
+    border:2px solid #7d6754;
+    border-radius:5px;
+    padding:3px;
+    -webkit-appearance: none; 
+    background-image:url('Images/Arrowhead-Down-01.png');
+    background-position:88px;
+    background-repeat:no-repeat;
+    text-indent: 0.01px;/*In Firefox*/
+    text-overflow: '';/*In Firefox*/
+}

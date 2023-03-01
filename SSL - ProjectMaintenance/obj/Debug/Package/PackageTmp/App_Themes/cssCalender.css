@@ -1,0 +1,133 @@
+/* table employee info */
+.tbCalender {
+
+	/* width:100%; */
+	height: 100%;
+	border-style: solid;
+	border-width: 2px;
+	/*background-color: #99CCFF;*/
+	font-family:"Microsoft Sans Serif";
+}
+
+.trCalenderHeader {
+	color: black;
+	font-size: 14px;
+	font-weight:bold;
+	text-align: center;
+	background-color: #99CCFF;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000099;
+}
+
+.tdCalenderHeaderDepartment {
+	width: 100px;
+	background-color: #99CCFF;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+}
+
+.tdCalenderHeaderEmployee {
+	width: 210px;
+	background-color: #99CCFF;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+}
+
+.tdCalenderHeaderWeekDay {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	background-color: #99CCFF;
+	text-align: center;
+
+}
+
+.tdCalenderHeaderWeekEnd {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	text-align: center;
+	width: 10px 
+}
+
+.trCalenderEmployee{
+	color:black;
+	font-size:13px;
+		
+}
+
+.tdCalenderDataEmployee {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	background-color: #99CCFF;
+	color: black;
+	width: 200px; 
+}
+
+.tdCalenderWeekDay {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	text-align: center;
+}
+
+
+.floatframe {
+	position:absolute; /* can also be 'fixed' */
+    top:50%; left:50%; 
+    width:800px; height:450px; 
+    margin:-225px 0 0 -400px;
+    z-index:100;
+}
+
+.tdCalenderHeaderWeekDayDaily 
+{
+    width: 150px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	background-color: #99CCFF;
+	text-align: center;
+}
+
+
+.tdCalenderWeekDayDaily 
+{
+    width: 150px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	text-align: center;
+}
+
+
+.tdCalenderHeaderSummary {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	background-color: #99CCFF;
+	text-align: center;
+    width: 85px;
+
+}
+
+.tdCalenderSummary {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	text-align: center;
+    width: 85px;
+}
+
+.tdCalenderSummaryTotal {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000099;
+	text-align: center;
+	background-color:#ebebeb ; 
+    width: 85px;
+}

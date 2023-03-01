@@ -1,0 +1,94 @@
+/* * { padding: 0; margin: 0; } */
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 15px;
+}
+
+#wrapper { 
+ margin: 0 auto;
+ width: 952px;
+}
+
+#header {
+ width: 930px;
+ color: #333;
+ padding: 10px;
+ border: 1px solid #ccc;
+ height: 65px;
+ margin: 10px 0px 5px 0px;
+ /* background: #DAC8BF; */
+ /* background: #507CD1; */
+ /* background: #009900; */
+ /* background: #33cc00; */
+
+ background: #99CCFF;
+}
+
+
+h1.h1Head
+{ padding: 0; margin: 0; }
+
+
+#navigation {
+ width: 930px;
+ color: #333;
+ padding: 5px;
+ border: 1px solid #ccc;
+ margin: 0px 0px 5px 0px;
+ /* background-color:#F3F2ED; */
+ /* background-color:#ccffcc; */
+ background-color:#ccffcc;
+}
+#filter {
+ width: 930px;
+ color: #333;
+ padding: 10px;
+ border: 1px solid #ccc;
+ margin: 0px 0px 5px 0px;
+ /* background-color:#F3F2ED; */
+ /* background-color:#fcffe8; */
+ background-color:#99CCFF;
+}
+#result {
+ width: 930px;
+ color: #333;
+ padding: 10px;
+ border: 1px solid #ccc;
+ margin: 0px 0px 5px 0px;
+ /* background-color:#F3F2ED; */
+ /* background-color:#fcffe8; */
+ background-color:#fcffe8;
+ height: 5px;
+}
+#content { 
+ width: 930px;
+ color: #333;
+ border: 1px solid #ccc;
+ /* background:#CCC8B3; */
+ background:#ebebeb;
+ margin: 0px 0px 5px 0px;
+ padding: 10px;
+ height: 350px;
+}
+#summary {
+ width: 930px;
+ color: #333;
+ padding: 10px;
+ border: 1px solid #ccc;
+ margin: 0px 0px 5px 0px;
+ /* background-color:#F3F2ED; */
+ /* background-color:#fcffe8; */
+ background-color:#99FFCC;
+ height: 5px;
+}
+#footer { 
+ width: 930px;
+ color: #333;
+ border: 1px solid #ccc;
+ /* background-color:#F3F2ED; */
+ /* background-color:#ccffcc; */
+ background-color:#99CCFF;
+ margin: 0px 0px 10px 0px;
+ padding: 10px;
+}

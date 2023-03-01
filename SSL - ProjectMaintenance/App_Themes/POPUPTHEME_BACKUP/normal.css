@@ -1,0 +1,105 @@
+.normal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	color: #000033;
+	background-image: url(/images/diamond.jpg);
+	background-repeat: repeat;
+}a:link {  text-decoration: underline; color: #000099}a:visited {  color: #000099}a:active {  color: #CC3333}a:hover {  color: #FF0000}
+.normal_text {  font-family:  Arial,Helvetica, sans-serif; font-size: 11px; font-style: normal}
+.big_text {  font-family:  Arial,Helvetica, sans-serif; font-size: 12px; font-style: normal}
+.thai {  font-family: AngsanaUPC; font-size: 16px}
+.form_header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #330066;
+	background-color: #E8F3FF;
+}
+.menulisthdr {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #330066;
+	background-color: #E8F3FF;
+}
+
+.table_header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #330066;
+	background-color: #99CCFF;
+}
+.table_list {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #330066;
+	background-color: #E8F3FF;
+}
+.shrtlistlink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000066;
+}
+.shrtlisthdr {
+	color: #000066;
+	background-color: #E8F3FF;
+}
+.admintext {
+	background-color: #FFFFFF;
+	font-weight: bold;
+	color: #330066;
+	text-decoration: blink;
+}
+.menulisthdr2 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ font-style: normal;
+ line-height: normal;
+ font-weight: bold;
+ font-variant: normal;
+ text-transform: capitalize;
+ color: #330066;
+ background-color: #FFFFCC;
+}
+.menulisthdr3 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ font-style: normal;
+ line-height: normal;
+ font-weight: bold;
+ font-variant: normal;
+ text-transform: capitalize;
+ color: #330066;
+}
+.menulisthdr4 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ font-style: normal;
+ line-height: normal;
+ font-variant: normal;
+ text-transform: capitalize;
+ color: #000000;
+}
+.screenshot {
+	font-family: "Courier New", Courier, mono;
+	font-size: 8px;
+}

@@ -1,0 +1,340 @@
+.form .tbAllProgramName {
+	border-style:solid;
+	border-width: 2px;
+	border-color: #C0C0C0;
+	background-color: #99CCFF;
+	font-family:"Microsoft Sans Serif";
+	font-size:x-large;
+	width:1150px;
+}
+.form  .th-header{font-family:sans-serif, Arial;
+           font-size:16px;
+           font-weight:bold;
+           padding:5px 5px;
+           border-style:solid;
+           border-width:1px;
+           overflow:hidden;
+           border-color:#999;
+           color:#fff;
+           background-color:#2b7dd9;
+           text-align:center}
+    
+.form .td-lable{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:#9ec1e9;
+                 width:100px ;
+                 text-align:Right;
+                 }
+                 
+.form .td-lableblank{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:none;
+                 border-width:1px;
+                 overflow:hidden;
+                 color:#444;
+                 width:95px ;
+                 text-align:Right;
+                 }                 
+                 
+.form .td-lable-total-employee{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:#9ec1e9;
+                 width:170px ;
+                 text-align:Right;
+                 }
+                 
+ .form .td-lable-TableHead{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:#9ec1e9;
+                 width:360px ;
+                 text-align:Center;
+                 }
+                 
+ .form .td-lable-TableHeadDate{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:#9ec1e9;
+                 width:120px ;
+                 text-align:Center;
+                 }
+                 
+ .form .td-lable-LeaveAB{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:Yellow;
+                 width:120px ;
+                 text-align:Center;
+                 }
+                   
+ .form .td-lable-LeaveE-{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:#FF66FF;
+                 width:120px ;
+                 text-align:Center;
+                 }
+ .form .td-lable-LeaveAL{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:green;
+                 width:120px ;
+                 text-align:Center;
+                 }
+                             
+.form .td-input {font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#444;
+            background-color:#ffffff;
+            text-align:Left;
+     } 
+     
+ .form .td-input-size {font-family:Tahoma, sans-serif, Arial;
+           width: 550px;
+           border-style:solid;
+           border-width:1px;
+           overflow:hidden;
+           border-color:#999;
+           color:#444;
+           background-color:#ffffff;
+           text-align:Left
+     } 
+     
+          
+ .form .td-inputHeader {font-family:Tahoma, sans-serif, Arial;
+            font-size:16px;
+            font-weight:bold;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#ffffff;
+            text-align:Center;
+            background-color:#3366FF;
+            width:600px;
+     }   
+     
+ .form .td-inputHeaderATDM {font-family:Tahoma, sans-serif, Arial;
+            font-size:16px;
+            font-weight:bold;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#ffffff;
+            text-align:Center;
+            background-color:#3366FF;
+            width:1500px;
+     }   
+     
+     
+ .form .td-inputTitle {font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            font-weight:bold;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#ffffff;
+            text-align:Center;
+            background-color:#3366FF;
+            width:600px;
+     }
+     
+      .form .td-GridviewTitle {font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            font-weight:bold;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#000000;
+            text-align:Center;
+            background-color:#6699ff;
+            width:600px;
+         
+     }   
+     
+     .form .GridviewRowStyle {font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            color:Black;
+            background-color:#EFF3FB;
+         
+     }   
+     
+     .form .GridviewFooterStyle {font-family:Tahoma, san-serif, Arial;
+            font-size:12px;
+            font-weight:bold;
+            color:#333333;
+            background-color:#507CD1;        
+     }
+     
+     .form .SelectedRowStyle {font-family:Tahoma, Sans-Serif,Arial;
+           color:White;
+           background-color:#D1DDF1;
+           text-align:Center;
+                                
+     }
+     
+      .form .GridviewPagerStyle {font-family:Tahoma, Sans-Serif,Arial;
+           color:White;
+           background-color:#2461BF;
+           text-align:Center;
+                                
+     }
+     
+    .form .td-GridviewDetail{font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#3366CC;
+            color:#000000;
+            text-align:Center;
+            background-color:#ffffff;
+            width:600px;
+     }      
+     
+     .form .Button{font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            font-weight:bold;
+            color:White;
+            text-align:Center;
+            background-color:#CC3300;
+            Width: 100px;
+     }    
+     
+   .form .tdFilterInputSupCombobox {
+	width: 230px;
+	border-style: none;
+	border-width: 1px;
+	border-color: #C0C0C0; 
+	/* border-color: #66CDAA; */
+}
+
+   .form .tdFilterInputCombobox {
+	width: 270px;
+	border-style: none;
+	border-width: 1px;
+	border-color: #C0C0C0; 
+	/* border-color: #66CDAA; */
+}          
+                
+.form-labelbg{background-color:#26ade4
+                      }
+ 
+                      
+.roundtextbox {background:#fff;
+          font-family:Verdana,Arial, Helvetica, sans-serif;
+          font-size:12pt;
+          margin-left:auto;
+          margin-right:auto;
+          margin-top:1px;
+          margin-bottom:1px;
+          padding:3px;
+          border-top:1px solid #CCCCCC;
+          border-left:1px solid #CCCCCC;
+          border-right:1px solid #999999;
+          border-bottom:1px solid #999999;
+          -moz-border-radius: 8px;
+          -webkit-border-radius: 8px;
+         }     
+         
+         .Container
+{
+	margin:auto;
+	min-height:400px;
+	background:#ffffff;
+	max-width:400px;
+	min-width:400px;
+	border:solid 1px #d4d4d4;
+	padding:0 20px 20px 20px;
+}
+
+.ToolBar
+{
+	border:solid 1px #d4d4d4;
+	padding:10px;
+	margin-bottom:20px;
+}
+
+
+.TitlebarLeft 
+{
+	float:left;
+	padding-left:5px;
+	padding-top:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#FFFFFF;
+}
+.TitlebarRight 
+{
+	background:url(Images/cross_icon_normal_red.png);
+	background-position:right;
+	background-repeat:no-repeat;
+	height:15px;
+	width:16px;
+	float:right;
+	cursor:pointer;
+	margin-right:5px;
+	margin-top:5px;
+}
+

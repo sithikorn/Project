@@ -1,0 +1,331 @@
+.popUp  .th-header{font-family:sans-serif, Arial;
+           font-size:16px;
+           font-weight:bold;
+           padding:5px 5px;
+           border-style:solid;
+           border-width:1px;
+           overflow:hidden;
+           border-color:#999;
+           color:#fff;
+           background-color:#2b7dd9;
+           text-align:center}
+    
+.popUp .td-lable{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:#9ec1e9;
+                 width:100px ;
+                 text-align:Right;
+                 }
+                 
+.popUp .td-lable_confirm{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:#FF6600;
+                 width:100px ;
+                 text-align:Right;
+                 }                 
+                 
+.popUp .td-lableShort{font-family:Tahoma, sans-serif, Arial;
+                 font-size:12px;
+                 font-weight:bold;
+                 padding:3px 3px;
+                 border-style:solid;
+                 border-width:1px;
+                 overflow:hidden;
+                 border-color:#999;
+                 color:#444;
+                 background-color:#9ec1e9;
+                 width:90px ;
+                 text-align:Right;
+                 }                 
+                 
+.popUp .td-lableblank {font-family:Tahoma, sans-serif, Arial;
+                         font-size:12px;
+                         font-weight:bold;
+                         padding:3px 3px;
+                         border-style:solid;
+                         border-width:1px;
+                         overflow:hidden;
+                         border-color:#999;
+                         color:#444;
+                         width:100px ;
+                         text-align:Right;
+                         }                 
+             
+                             
+.popUp .td-input {font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#444;
+            background-color:#ffffff;
+            text-align:Left;
+     } 
+     
+.popUp .td-inputTime {font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#444;
+            background-color:#ffffff;
+            text-align:Left;
+     }      
+          
+ .popUp .td-inputHeader {font-family:Tahoma, sans-serif, Arial;
+            font-size:16px;
+            font-weight:bold;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#ffffff;
+            text-align:Center;
+            background-color:#3366FF;
+            width:600px;
+     }   
+     
+ .popUp .td-inputTitle {font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            font-weight:bold;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#ffffff;
+            text-align:Center;
+            background-color:#3366FF;
+            width:600px;
+     }
+     
+      .popUp .td-GridviewTitle {font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            font-weight:bold;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#999;
+            color:#000000;
+            text-align:Center;
+            background-color:#6699ff;
+            width:600px;
+     }   
+     
+    .popUp .td-GridviewDetail{font-family:Tahoma, sans-serif, Arial;
+            font-size:12px;
+            padding:3px 3px;
+            border-style:solid;
+            border-width:1px;
+            overflow:hidden;
+            border-color:#3366CC;
+            color:#000000;
+            text-align:Center;
+            background-color:#ffffff;
+            width:600px;
+     }      
+          
+                
+.popUp .popUp-labelbg{background-color:#26ade4
+                      }
+                      
+.roundtextbox {background:#fff;
+          font-family:Verdana,Arial, Helvetica, sans-serif;
+          font-size:12pt;
+          margin-left:auto;
+          margin-right:auto;
+          margin-top:1px;
+          margin-bottom:1px;
+          padding:3px;
+          border-top:1px solid #CCCCCC;
+          border-left:1px solid #CCCCCC;
+          border-right:1px solid #999999;
+          border-bottom:1px solid #999999;
+          -moz-border-radius: 8px;
+          -webkit-border-radius: 8px;
+         }     
+         
+.roundtextboxTime {background:#fff;
+          font-family:Verdana,Arial, Helvetica, sans-serif;
+          font-size:10pt;
+          margin-left:auto;
+          margin-right:auto;
+          margin-top:1px;
+          margin-bottom:1px;
+          padding:3px;
+          border-top:1px solid #CCCCCC;
+          border-left:1px solid #CCCCCC;
+          border-right:1px solid #999999;
+          border-bottom:1px solid #999999;
+          -moz-border-radius: 8px;
+          -webkit-border-radius: 8px;
+         }           
+         
+.Container
+{
+	margin:auto;
+	min-height:400px;
+	background:#ffffff;
+	max-width:400px;
+	min-width:400px;
+	border:solid 1px #d4d4d4;
+	padding:0 20px 20px 20px;
+}
+
+.ToolBar
+{
+	border:solid 1px #d4d4d4;
+	padding:10px;
+	margin-bottom:20px;
+}
+
+.GridContainer
+{
+	background:#ECF5FB;
+	min-height:300px;
+	border:solid 1px #d4d4d4;
+}
+
+
+.ModalPopupBG
+{
+	height:100%;
+    background-color: #666699;
+    filter:alpha(opacity=70);
+    opacity:0.7;
+	
+}
+
+.ModalPopupBackground 
+{
+    height:100%;
+    background-color:#EBEBEB;
+    filter:alpha(opacity=70);
+    opacity:0.7;
+}
+
+.popup_Container {
+	background-color:#ffffff;
+	border:2px solid #000000;
+	padding: 0px 0px 0px 0px;
+}
+
+.popupConfirmation
+{
+	width: 458px;
+	height: 446px;
+}
+
+.popupConfirmationLeave
+{
+	width: 650px;
+	height: 600px;
+}
+
+
+.popupLogin
+{
+	width: 300px;
+	height: 250px;
+}
+
+.popup_Titlebar {
+	background: url(Images/titlebar_bg_blue.jpg);
+	height: 29px;
+}
+
+
+.popup_Titlebar_Confirm {
+	background: url(Images/titlebar_bg_orange.jpg);
+	height: 29px;
+}
+
+.popup_Body
+{
+	padding:15px 15px 15px 15px;
+	font-family:Arial;
+	font-weight:bold;
+	font-size:12px;
+	color:#000000;
+	line-height:15pt;
+	clear:both;
+	padding:20px;
+}
+
+.TitlebarLeft 
+{
+	float:left;
+	padding-left:5px;
+	padding-top:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#FFFFFF;
+}
+
+
+.TitlebarLeft_Blue
+{
+	float:left;
+	padding-left:5px;
+	padding-top:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#330099;
+    width: 270px;
+    height: 20px;
+}
+
+.TitlebarRight 
+{
+	background:url(Images/cross_icon_normal_red.png);
+	background-position:right;
+	background-repeat:no-repeat;
+	height:15px;
+	width:16px;
+	float:right;
+	cursor:pointer;
+	margin-right:5px;
+	margin-top:5px;
+}
+
+.TitlebarRight_Blue
+{
+	background:url(Images/cross_icon_normal_blu.png);
+	background-position:right;
+	background-repeat:no-repeat;
+	height:20px;
+	width:16px;
+	float:right;
+	cursor:pointer;
+	margin-right:5px;
+	margin-top:5px;
+}
+
+.popup_Buttons
+{
+	margin:10px;
+}
+                          
+/* PopUp Theme - End */

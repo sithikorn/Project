@@ -1,0 +1,1172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SSL - ProjectMaintenance
+</name>
+</assembly>
+<members>
+<member name="F:SSL___ProjectMaintenance.frmProject._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._Label6">
+<summary>
+Label6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._lbStatus">
+<summary>
+lbStatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._lbStatusHistory">
+<summary>
+lbStatusHistory control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._lbDataKey">
+<summary>
+lbDataKey control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._txtSearch">
+<summary>
+txtSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._cmdTransfer">
+<summary>
+cmdTransfer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._rptAlphabets">
+<summary>
+rptAlphabets control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._lblResult">
+<summary>
+lblResult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._gvData">
+<summary>
+gvData control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._PanelR">
+<summary>
+PanelR control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._ulGroup">
+<summary>
+ulGroup control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._divContent">
+<summary>
+divContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._pnSave">
+<summary>
+pnSave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._cmdSave">
+<summary>
+cmdSave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._cmdDelete">
+<summary>
+cmdDelete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._cmdCancelSave">
+<summary>
+cmdCancelSave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._iframePDF">
+<summary>
+iframePDF control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._HDduplicate">
+<summary>
+HDduplicate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._HFcontrolchange">
+<summary>
+HFcontrolchange control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._HFbeforchangeCalendar">
+<summary>
+HFbeforchangeCalendar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._HFcontroltype">
+<summary>
+HFcontroltype control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.frmProject._HFcontroltypeData">
+<summary>
+HFcontroltypeData control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._lblTitlePopupLogin">
+<summary>
+lblTitlePopupLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._lblTitle">
+<summary>
+lblTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._lblPopupLoginEmployee">
+<summary>
+lblPopupLoginEmployee control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._txtUserName">
+<summary>
+txtUserName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._lblPopupTimeDate">
+<summary>
+lblPopupTimeDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._txtPassword">
+<summary>
+txtPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._btnLogin">
+<summary>
+btnLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._btnClose">
+<summary>
+btnClose control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:SSL___ProjectMaintenance.Login._lblPopUpLoginResult">
+<summary>
+lblPopUpLoginResult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:SSL___ProjectMaintenance.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:SSL___ProjectMaintenance.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:SSL___ProjectMaintenance.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:SSL___ProjectMaintenance.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:SSL___ProjectMaintenance.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:SSL___ProjectMaintenance.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.#ctor">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.AddCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.DeleteCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.ExecuteSQLCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetAllCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetByTableNameCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetGroupByTableNameCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.SaveCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetLookUpDataByProcedureCompleted">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.Add(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.AddAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.AddAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.Delete(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.DeleteAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.DeleteAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.ExecuteSQL(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.ExecuteSQLAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.ExecuteSQLAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetAll(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetAllAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetAllAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetByTableName(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetByTableNameAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetByTableNameAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetGroupByTableName(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetGroupByTableNameAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetGroupByTableNameAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.Save(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.SaveAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.SaveAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetLookUpDataByProcedure(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetLookUpDataByProcedureAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.GetLookUpDataByProcedureAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_DatabaseDescription.DatabaseDescription.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.AddCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.AddCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.AddCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.AddCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.DeleteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.DeleteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.DeleteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.DeleteCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.ExecuteSQLCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.ExecuteSQLCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.ExecuteSQLCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.ExecuteSQLCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.GetAllCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.GetAllCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.GetAllCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.GetAllCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.GetByTableNameCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.GetByTableNameCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.GetByTableNameCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.GetByTableNameCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.GetGroupByTableNameCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.GetGroupByTableNameCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.GetGroupByTableNameCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.GetGroupByTableNameCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.SaveCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.SaveCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.SaveCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.SaveCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.GetLookUpDataByProcedureCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_DatabaseDescription.GetLookUpDataByProcedureCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.GetLookUpDataByProcedureCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_DatabaseDescription.GetLookUpDataByProcedureCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.Project">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.#ctor">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_Project.Project.AddCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_Project.Project.DeleteCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_Project.Project.GetAllCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_Project.Project.GetByProjectIDCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_Project.Project.ReadSchemaCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_Project.Project.SaveCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_Project.Project.TransferToSageCompleted">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.Add(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.AddAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.AddAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.Delete(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.DeleteAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.DeleteAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.GetAll(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.GetAllAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.GetAllAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.GetByProjectID(System.String@,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.GetByProjectIDAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.GetByProjectIDAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.ReadSchema(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.ReadSchemaAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.ReadSchemaAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.Save(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.SaveAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.SaveAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.TransferToSage(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.TransferToSageAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.TransferToSageAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_Project.Project.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.AddCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.AddCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.AddCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.AddCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.DeleteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.DeleteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.DeleteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.DeleteCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.GetAllCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.GetAllCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.GetAllCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.GetAllCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.GetByProjectIDCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.GetByProjectIDCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.GetByProjectIDCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.GetByProjectIDCompletedEventArgs.ProjectCode">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.GetByProjectIDCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.ReadSchemaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.ReadSchemaCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.ReadSchemaCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.ReadSchemaCompletedEventArgs.XMLSchema">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.SaveCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.SaveCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.SaveCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.SaveCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.TransferToSageCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_Project.TransferToSageCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.TransferToSageCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_Project.TransferToSageCompletedEventArgs.xmlString">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.#ctor">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.AddCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.DeleteCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetAllCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetAvailableFunctionCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetBySecurityGroupCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.ReadSchemaCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.SaveCompleted">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.Add(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.AddAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.AddAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.Delete(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.DeleteAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.DeleteAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetAll(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetAllAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetAllAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetAvailableFunction(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetAvailableFunctionAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetAvailableFunctionAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetBySecurityGroup(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetBySecurityGroupAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.GetBySecurityGroupAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.ReadSchema(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.ReadSchemaAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.ReadSchemaAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.Save(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.SaveAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.SaveAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_SecurityRule.SecurityRule.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.AddCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.AddCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.AddCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.AddCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.DeleteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.DeleteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.DeleteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.DeleteCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.GetAllCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.GetAllCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.GetAllCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.GetAllCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.GetAvailableFunctionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.GetAvailableFunctionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.GetAvailableFunctionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.GetAvailableFunctionCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.GetBySecurityGroupCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.GetBySecurityGroupCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.GetBySecurityGroupCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.GetBySecurityGroupCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.ReadSchemaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.ReadSchemaCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.ReadSchemaCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.ReadSchemaCompletedEventArgs.XMLSchema">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.SaveCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_SecurityRule.SaveCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.SaveCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_SecurityRule.SaveCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.SecurityUser">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.#ctor">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.AddCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.CheckPasswordCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.DeleteCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetActiveCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetAllCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetByEmployeeCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetBySecurityUserCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.ReadSchemaCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.SaveCompleted">
+<remarks/>
+</member>
+<member name="E:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.SetPasswordCompleted">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.Add(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.AddAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.AddAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.CheckPassword(System.String,System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.CheckPasswordAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.CheckPasswordAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.Delete(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.DeleteAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.DeleteAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetActive(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetActiveAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetActiveAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetAll(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetAllAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetAllAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetByEmployee(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetByEmployeeAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetByEmployeeAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetBySecurityUser(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetBySecurityUserAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.GetBySecurityUserAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.ReadSchema(System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.ReadSchemaAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.ReadSchemaAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.Save(System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.SaveAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.SaveAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.SetPassword(System.String,System.String,System.String@)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.SetPasswordAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.SetPasswordAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SSL___ProjectMaintenance.ws_securityuser.SecurityUser.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.AddCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.AddCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.AddCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.AddCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.CheckPasswordCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.CheckPasswordCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.CheckPasswordCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.CheckPasswordCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.DeleteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.DeleteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.DeleteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.DeleteCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.GetActiveCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.GetActiveCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.GetActiveCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.GetActiveCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.GetAllCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.GetAllCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.GetAllCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.GetAllCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.GetByEmployeeCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.GetByEmployeeCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.GetByEmployeeCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.GetByEmployeeCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.GetBySecurityUserCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.GetBySecurityUserCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.GetBySecurityUserCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.GetBySecurityUserCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.ReadSchemaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.ReadSchemaCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.ReadSchemaCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.ReadSchemaCompletedEventArgs.XMLSchema">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.SaveCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.SaveCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.SaveCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.SaveCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.SetPasswordCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SSL___ProjectMaintenance.ws_securityuser.SetPasswordCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.SetPasswordCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:SSL___ProjectMaintenance.ws_securityuser.SetPasswordCompletedEventArgs.XMLSTRING">
+<remarks/>
+</member>
+</members>
+</doc>

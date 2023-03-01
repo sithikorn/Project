@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SSL___ProjectMaintenance_ws_DatabaseDescription_DatabaseDescription" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sslvmsql1/ws_mfgsag/DatabaseDescription.asmx</Value>
+    </Setting>
+    <Setting Name="SSL___ProjectMaintenance_ws_Project_Project" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sslvmsql1/ws_mfgsag/Project.asmx</Value>
+    </Setting>
+    <Setting Name="SSL___ProjectMaintenance_ws_securityuser_SecurityUser" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sslvmsql1/ws_mfgsag/securityuser.asmx</Value>
+    </Setting>
+    <Setting Name="SSL___ProjectMaintenance_ws_SecurityRule_SecurityRule" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sslvmsql1/ws_mfgsag/SecurityRule.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
